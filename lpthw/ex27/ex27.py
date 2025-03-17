@@ -1,0 +1,1 @@
+this exercice is just  a terminal and paper write and save the bolean logic
